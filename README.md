@@ -9,3 +9,6 @@ This repository is a smaller version of [100DaysofML](https://github.com/kabirna
     - [mutual_info_classif](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.mutual_info_classif.html#sklearn.feature_selection.mutual_info_classif)
     - [SelectFromModel](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html#sklearn.feature_selection.SelectFromModel)  
 4. Worked with [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_api.html) on the dataset and finetuned to reach an F1-score of 96.2% on an anomalies detection dataset.
+5. Worked on reducing [skewness](https://towardsdatascience.com/transforming-skewed-data-73da4c2d0d16) of the dataset. Also worked with [Power Tranform](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PowerTransformer.html#sklearn.preprocessing.PowerTransformer) and understood the working. 
+    - Right skewed: log transform
+    - Left skewed : square transform
