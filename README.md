@@ -12,3 +12,4 @@ This repository is a smaller version of [100DaysofML](https://github.com/kabirna
 5. Worked on reducing [skewness](https://towardsdatascience.com/transforming-skewed-data-73da4c2d0d16) of the dataset. Also worked with [Power Tranform](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PowerTransformer.html#sklearn.preprocessing.PowerTransformer) and understood the working. 
     - Right skewed: log transform
     - Left skewed : square transform
+6. Learned EDA technique and and new types of graphs in [Sea Born](https://seaborn.pydata.org/) like swarmplot, KDE etc.
