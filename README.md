@@ -13,3 +13,4 @@ This repository is a smaller version of [100DaysofML](https://github.com/kabirna
     - Right skewed: log transform
     - Left skewed : square transform
 6. Learned EDA technique and and new types of graphs in [Sea Born](https://seaborn.pydata.org/) like swarmplot, KDE etc.
+7. Half way through writing research paper, learned about [ResNet](https://keras.io/api/applications/resnet/#resnet50-function) in depth, learned [BoxCox](https://www.geeksforgeeks.org/box-cox-transformation-using-python/) for reducing skewness.
