@@ -16,4 +16,5 @@ This repository is a smaller version of [100DaysofML](https://github.com/kabirna
 7. Half way through writing research paper, learned about [ResNet](https://keras.io/api/applications/resnet/#resnet50-function) in depth, learned [BoxCox](https://www.geeksforgeeks.org/box-cox-transformation-using-python/) for reducing skewness.
 8. Tried a skewness reduction method on [Pet Adoption data](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/leaderboard/pet-adoption-9-5838c75b/). Learned more about hypothesis and P-value.
 9. After muyltiple tests on Training set, I applied the mehtods to test datatset. Sadly the accuracy achieved was only 88%. Worked more on hypothesis understanding. 
-10. Researched about autocorrect methods using Deep Learning.
+10. Researched about autocorrect methods using Deep Learning and distance method.  
+11. Trying to implement [Bi Directional LSTM](https://keras.io/api/layers/recurrent_layers/bidirectional/)
