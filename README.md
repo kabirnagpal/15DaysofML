@@ -18,3 +18,4 @@ This repository is a smaller version of [100DaysofML](https://github.com/kabirna
 9. After muyltiple tests on Training set, I applied the mehtods to test datatset. Sadly the accuracy achieved was only 88%. Worked more on hypothesis understanding. 
 10. Researched about autocorrect methods using Deep Learning and distance method.  
 11. Trying to implement [Bi Directional LSTM](https://keras.io/api/layers/recurrent_layers/bidirectional/)
+12. Back to basics for Multilayer perceptron from scratch. Associative Network trial in Matlab
