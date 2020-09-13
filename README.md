@@ -15,7 +15,8 @@ This repository is a smaller version of [100DaysofML](https://github.com/kabirna
 6. Learned EDA technique and and new types of graphs in [Sea Born](https://seaborn.pydata.org/) like swarmplot, KDE etc.
 7. Half way through writing research paper, learned about [ResNet](https://keras.io/api/applications/resnet/#resnet50-function) in depth, learned [BoxCox](https://www.geeksforgeeks.org/box-cox-transformation-using-python/) for reducing skewness.
 8. Tried a skewness reduction method on [Pet Adoption data](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/leaderboard/pet-adoption-9-5838c75b/). Learned more about hypothesis and P-value.
-9. After muyltiple tests on Training set, I applied the mehtods to test datatset. Sadly the accuracy achieved was only 88%. Worked more on hypothesis understanding. 
+9. After multiple tests on Training set, I applied the mehtods to test datatset. Sadly the accuracy achieved was only 88%. Worked more on hypothesis understanding. 
 10. Researched about autocorrect methods using Deep Learning and distance method.  
 11. Trying to implement [Bi Directional LSTM](https://keras.io/api/layers/recurrent_layers/bidirectional/)
 12. Back to basics for Multilayer perceptron from scratch. Associative Network trial in Matlab
+13. Recieved Assignment related to geospatial data for internship. Data Analysis + Classification
