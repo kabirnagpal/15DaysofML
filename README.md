@@ -20,3 +20,7 @@ This repository is a smaller version of [100DaysofML](https://github.com/kabirna
 11. Trying to implement [Bi Directional LSTM](https://keras.io/api/layers/recurrent_layers/bidirectional/)
 12. Back to basics for Multilayer perceptron from scratch. Associative Network trial in Matlab
 13. Recieved Assignment related to geospatial data for internship. Data Analysis + Classification
+14. Read and understood these research paper
+    - [Ensemble Stacked CNN for ESC](https://pdfs.semanticscholar.org/94bb/f0223b4c7dcaa0ff4f9a52c8558591d2f611.pdf?_ga=2.46438254.857111201.1598176321-200861282.1591779849)
+    - [MFCC and GMM](https://www.researchgate.net/publication/261423419_Gender_identification_of_a_speaker_using_MFCC_and_GMM/citations
+)
