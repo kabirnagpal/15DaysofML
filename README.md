@@ -24,3 +24,7 @@ This repository is a smaller version of [100DaysofML](https://github.com/kabirna
     - [Ensemble Stacked CNN for ESC](https://pdfs.semanticscholar.org/94bb/f0223b4c7dcaa0ff4f9a52c8558591d2f611.pdf?_ga=2.46438254.857111201.1598176321-200861282.1591779849)
     - [MFCC and GMM](https://www.researchgate.net/publication/261423419_Gender_identification_of_a_speaker_using_MFCC_and_GMM/citations
 )
+15. Read a number of blogs:
+    - https://analyticsindiamag.com/tech-behind-nasas-ml-model-to-predict-hurricane-intensity/
+    - https://analyticsindiamag.com/how-to-implement-ml-models-with-small-datasets/
+    - https://medium.com/nerd-for-tech/understanding-reinforcement-learning-i-8613218441e5
